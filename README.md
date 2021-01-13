@@ -19,5 +19,12 @@ Demo version available at: https://shop-and-cook.herokuapp.com
 * Recipes database
 * New shopping list from recipe's ingredients
 
+#### Todo
+* Find an recipe API in polish and implement it
+* Work on the frontend
+
+## Inspiration
+This is a copycat project of the web application available [here](https://przepisy.pl). The idea for it came to me in the middle of pandemic. Quarantine took away many outdoor activities so I started cooking more as a hobby.I wanted to make a less complex and more user-friendly app (compared to the above mentioned) allowing me to choose the recipes I like, add ingredients to my shopping list and send an email, so I can buy the stuff I need in a grocery store.
+
 ## Contact
 Created by [@kuczynskil](https://www.github.com/kuczynskil) - feel free to contact me!
