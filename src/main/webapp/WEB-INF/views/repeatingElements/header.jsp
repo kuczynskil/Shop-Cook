@@ -17,13 +17,13 @@
     <!-- Google web font "Open Sans" -->
     <link rel="stylesheet" href="${pageContext.request.contextPath}/font-awesome-4.5.0/css/font-awesome.min.css">
     <!-- Font Awesome -->
-    <link rel="stylesheet" href="${pageContext.request.contextPath}/css/bootstrap.min.css">
+    <link rel="stylesheet" href="${pageContext.request.contextPath}/css/bootstrap-purified.css">
     <!-- Bootstrap style -->
-    <link rel="stylesheet" href="${pageContext.request.contextPath}/css/hero-slider-style.css">
+    <link rel="stylesheet" href="${pageContext.request.contextPath}/css/hero-slider-purified.css">
     <!-- Hero slider style (https://codyhouse.co/gem/hero-slider/) -->
-    <link rel="stylesheet" href="${pageContext.request.contextPath}/css/magnific-popup.css">
+    <link rel="stylesheet" href="${pageContext.request.contextPath}/css/magnific-popup-purified.css">
     <!-- Magnific popup style (http://dimsemenov.com/plugins/magnific-popup/) -->
-    <link rel="stylesheet" href="${pageContext.request.contextPath}/css/templatemo-style.css">
+    <link rel="stylesheet" href="${pageContext.request.contextPath}/css/templatemo-style-purified.css">
     <!-- Templatemo style -->
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->

@@ -2,16 +2,6 @@
 
 </div> <!-- .cd-hero -->
 
-
-<%--<!-- Preloader, https://ihatetomatoes.net/create-custom-preloading-screen/ -->--%>
-<%--<div id="loader-wrapper">--%>
-
-<%--    <div id="loader"></div>--%>
-<%--    <div class="loader-section section-left"></div>--%>
-<%--    <div class="loader-section section-right"></div>--%>
-
-<%--</div>--%>
-
 <!-- load JS files -->
 <script src="${pageContext.request.contextPath}/js/jquery-1.11.3.min.js"></script>
 <!-- jQuery (https://jquery.com/download/) -->
