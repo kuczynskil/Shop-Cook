@@ -26,7 +26,7 @@ public class HomeController {
 
     @GetMapping("")
     public String homepage() {
-        return "recipe/all";
+        return "redirect:/recipe/all";
     }
 
     @GetMapping("/register")
