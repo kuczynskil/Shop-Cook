@@ -13,6 +13,11 @@ Additionally user can browse through hard coded recipes and, if logged in, can c
 ## Demo
 Demo version available at: https://shop-and-cook.herokuapp.com
 
+## Screenshots
+![recipes](src/main/resources/static/img/recipes.png)
+![holiszki](src/main/resources/static/img/holiszki.png)
+![shopping list to make "holiszki" dish](src/main/resources/static/img/holiszki_shopping_list.png)
+
 ## Features
 * Registration and login
 * CRUD operations on shopping lists and ingredients
